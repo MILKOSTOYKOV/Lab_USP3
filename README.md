@@ -1,2 +1,5 @@
-# Lab_USP3
-Milkoo
+public class Main { 
+public static void main(String[] args ) {
+System.out.println("Team project");
+}
+}
